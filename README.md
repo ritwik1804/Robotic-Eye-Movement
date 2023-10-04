@@ -25,6 +25,9 @@ https://github.com/ritwik1804/Robotic-Eye-Movement/assets/103522580/1ebac3ce-467
 
 #### Ritwik Mohanty
 <p align="center">
+<img src = ""  height="120" alt="">
+</p>
+<p align="center">
 <a href = "https://github.com/ritwik1804"><img src = "https://www.iconninja.com/files/914/672/909/github-icon.png" width="36" height = "36"/></a>
 <a href = "https://instagram.com/mohanty_gi_ka_beta/">
 <img src = "https://www.iconninja.com/files/268/699/635/instagram-icon.png" width="36" height="36"/>
