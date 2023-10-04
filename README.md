@@ -12,7 +12,7 @@ https://github.com/ritwik1804/Robotic-Eye-Movement/assets/103522580/1ebac3ce-467
    
 #### Sidhartha Raghaw
 <p align="center">
-<img src = "![WhatsApp Image 2023-10-04 at 18 53 56_8775ab89](https://github.com/ritwik1804/Robotic-Eye-Movement/assets/93781577/cf6f2a4a-e07c-4aa7-a0c9-fa67bc2326a3)"  height="120" alt="Sidhartha Raghaw">
+<img src = "![WhatsApp Image 2023-10-04 at 18 53 56_8775ab89]"  height="120" alt="Sidhartha Raghaw">
 </p>
 <p align="center">
 <a href = "https://github.com/OpSiDop"><img src = "https://www.iconninja.com/files/914/672/909/github-icon.png" width="36" height = "36"/></a>
