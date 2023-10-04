@@ -23,6 +23,7 @@ https://github.com/ritwik1804/Robotic-Eye-Movement/assets/103522580/1ebac3ce-467
  <strong>IoT and Flutter Developer<strong>
 </td>
 
+<td>
 #### Ritwik Mohanty
 <p align="center">
 <img src = ""  height="120" alt="">
